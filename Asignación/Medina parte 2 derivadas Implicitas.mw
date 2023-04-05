@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Worksheet>
+<Version major="2015" minor="1"/>
+<Label-Scheme value="2" prefix=""/>
+<View-Properties presentation="false" autoexpanding_sections="true" UserProfileName="Maple Default Profile" NumericFormat-ApplyInteger="true" NumericFormat-ApplyRational="true" NumericFormat-ApplyExponent="false"><Zoom percentage="125"/>
+</View-Properties>
+<MapleNet-Properties elisiondigitsbefore="100" labelling="true" indentamount="4" elisiontermsthreshold="10000" ansi="false" errorbreak="1" useclientjvm="true" echo="1" imaginaryunit="I" labelwidth="20" unitattributes="&quot;fontweight&quot; = &quot;bold&quot;" contextmenusize="automatic" plotdriver="opengl" elisiondigitsafter="100" plotoutput="terminal" helpbrowser="standard" rtablesize="10" elisiontermsbefore="100" elisiondigitsthreshold="10000" typesetting="standard" plotdevice="inline" verboseproc="1" showassumed="1" quiet="false" errorcursor="false" longdelim="true" plotoptions="" elisiontermsafter="100" screenwidth="79" preplot="" prettyprint="3" displayprecision="-1" screenpixelheight="800" warnlevel="3" screenheight="25" latexwidth="8.0" postplot="" prompt="&gt; " ShowLabels="true"/>
+<Styles>
+<Font name="Ordered List 1" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Annotation Text" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Ordered List 2" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Ordered List 3" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Ordered List 4" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Ordered List 5" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Author" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Annotation Title" background="[255,255,255]" bold="true" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="18" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Warning" background="[255,255,255]" bold="false" executable="false" family="Courier New" foreground="[0,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Caption Reference" background="[255,255,255]" bold="true" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Maple Input Placeholder" background="[255,255,255]" bold="true" executable="true" family="Courier New" foreground="[200,0,200]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="true"/>
+<Font name="Maple Plot" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Code" background="[255,255,255]" bold="false" executable="false" family="Courier New" foreground="[255,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Line Printed Output" background="[255,255,255]" bold="false" executable="false" family="Courier New" foreground="[0,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Text Output" background="[255,255,255]" bold="false" executable="false" family="Courier New" foreground="[0,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Diagnostic" background="[255,255,255]" bold="false" executable="false" family="Courier New" foreground="[40,120,40]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="2D Inert Output" background="[255,255,255]" bold="false" executable="true" family="Times New Roman" foreground="[144,144,144]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Normal" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Hyperlink" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,128,128]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="true" placeholder="false"/>
+<Font name="Maple Output" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Dash Item" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="2D Math" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Maple Input" background="[255,255,255]" bold="true" executable="true" family="Courier New" foreground="[120,0,14]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="2D Output" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="2D Input" background="[255,255,255]" bold="false" executable="true" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="HyperlinkError" background="[255,255,255]" bold="false" executable="false" family="Courier New" foreground="[255,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="true" placeholder="false"/>
+<Font name="Header and Footer" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="10" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Error" background="[255,255,255]" bold="false" executable="false" family="Courier New" foreground="[255,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Title" background="[255,255,255]" bold="true" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="18" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Heading 1" background="[255,255,255]" bold="true" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="18" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Text" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Bullet Item" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Heading 4" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="true" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Equation Label" background="[255,255,255]" bold="true" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Heading 3" background="[255,255,255]" bold="true" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="true" opaque="false" readonly="false" size="14" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Heading 2" background="[255,255,255]" bold="true" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="16" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="HyperlinkWarning" background="[255,255,255]" bold="false" executable="false" family="Courier New" foreground="[0,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="true" placeholder="false"/>
+<Font name="Dictionary Hyperlink" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[147,0,15]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="true" placeholder="false"/>
+<Font name="Atomic Variable" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[175,0,175]" italic="true" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Caption Text" background="[255,255,255]" bold="true" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="List Item" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Layout name="Ordered List 1" alignment="left" bullet="numeric" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="-1" bulletsuffix=""/>
+<Layout name="Ordered List 2" alignment="left" bullet="alphabetic" firstindent="0" leftmargin="36" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="-1" bulletsuffix=""/>
+<Layout name="Ordered List 3" alignment="left" bullet="roman" firstindent="0" leftmargin="72" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="-1" bulletsuffix=""/>
+<Layout name="Ordered List 4" alignment="left" bullet="ALPHABETIC" firstindent="0" leftmargin="108" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="-1" bulletsuffix=""/>
+<Layout name="Ordered List 5" alignment="left" bullet="ROMAN" firstindent="0" leftmargin="144" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="-1" bulletsuffix=""/>
+<Layout name="Author" alignment="centred" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="8" spacebelow="8" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Warning" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Annotation Title" alignment="centred" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="12" spacebelow="12" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Maple Plot" alignment="centred" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Line Printed Output" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="any" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Text Output" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="newline" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Diagnostic" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="any" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Normal" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Maple Output" alignment="centred" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.3" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Dash Item" alignment="left" bullet="dash" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="HyperlinkError" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Error" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Title" alignment="centred" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="12" spacebelow="12" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Heading 1" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="8" spacebelow="4" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Bullet Item" alignment="left" bullet="dot" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Heading 4" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Heading 3" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Heading 2" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="8" spacebelow="2" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="HyperlinkWarning" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="List Item" alignment="left" bullet="indent" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Pencil-style name="Pencil 5" pen-color="[255,0,0]" pen-height="5.0" pen-width="5.0" pen-opacity="1.0"/>
+<Pencil-style name="Pencil 4" pen-color="[0,0,255]" pen-height="3.0" pen-width="3.0" pen-opacity="1.0"/>
+<Pencil-style name="Pencil 3" pen-color="[0,0,0]" pen-height="3.0" pen-width="3.0" pen-opacity="1.0"/>
+<Pencil-style name="Pencil 2" pen-color="[0,0,255]" pen-height="1.0" pen-width="1.0" pen-opacity="1.0"/>
+<Pencil-style name="Pencil 1" pen-color="[0,0,0]" pen-height="1.0" pen-width="1.0" pen-opacity="1.0"/>
+<Highlighter-style name="Highlighter 2" pen-color="[255,204,0]" pen-height="14.0" pen-width="14.0" pen-opacity="0.8"/>
+<Highlighter-style name="Highlighter 1" pen-color="[255,153,255]" pen-height="12.0" pen-width="8.0" pen-opacity="0.8"/>
+<Highlighter-style name="Highlighter 4" pen-color="[0,255,255]" pen-height="32.0" pen-width="32.0" pen-opacity="0.8"/>
+<Highlighter-style name="Highlighter 3" pen-color="[51,255,0]" pen-height="24.0" pen-width="24.0" pen-opacity="0.8"/>
+<Highlighter-style name="Highlighter 5" pen-color="[255,255,0]" pen-height="48.0" pen-width="48.0" pen-opacity="0.8"/>
+</Styles>
+<Startup-Code startupcode=""/>
+<Task-table>
+    <Task-category name="&lt;default&gt;"/>
+</Task-table>
+<Task/>
+<Group labelreference="L1" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field style="Text" layout="Normal"><Font bold="true">Universidad de Carabobo - Facultad de Ingenieria - Direccion de Postgrado</Font></Text-field>
+<Text-field style="Text" layout="Normal"><Font bold="true">Programa</Font>: Maestria Matematica y Computacion <Font bold="true">-</Font>  <Font bold="true">Asignatura</Font>: Introduccion al Calculo</Text-field>
+<Text-field style="Text" layout="Normal"><Font bold="true">Alumno</Font>: Ronald Medina <Font bold="true">-</Font> <Font bold="true">Cedula</Font>: V-16291029</Text-field>
+<Text-field style="Text" layout="Normal"><Font bold="true">Lapso:</Font> 03 - 2022 <Font bold="true">-</Font>  <Font bold="true">Fecha</Font>: 14 - 03 - 2023</Text-field>
+<Text-field style="Text" layout="Normal"><Font bold="true">Titulo</Font>: Asignacion <Font bold="true">-</Font> <Font bold="true">Parte 2)</Font> Derivadas Implicitas</Text-field>
+</Input>
+</Group>
+<Group labelreference="L2" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">restart:</Text-field>
+</Input>
+</Group>
+<Section collapsed="true" MultipleChoiceAnswerIndex="-1" MultipleChoiceRandomizeChoices="false" TrueFalseAnswerIndex="-1" EssayAnswerRows="5" EssayAnswerColumns="60"><Title>
+<Text-field style="Heading 1" layout="Heading 1"><Font size="12">Ejercicio 2.1  </Font><Equation executable="false" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUYjNi8tSSNtaUdGJDYlUSJ4RicvJSdpdGFsaWNHUSV0cnVlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkjbW9HRiQ2LVEiK0YnL0Y1USdub3JtYWxGJy8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGPy8lKXN0cmV0Y2h5R0Y/LyUqc3ltbWV0cmljR0Y/LyUobGFyZ2VvcEdGPy8lLm1vdmFibGVsaW1pdHNHRj8vJSdhY2NlbnRHRj8vJSdsc3BhY2VHUSwwLjIyMjIyMjJlbUYnLyUncnNwYWNlR0ZOLUYjNictSSVtc3VwR0YkNiUtRi42JVEieUYnRjFGNC1JI21uR0YkNiRRIjJGJ0Y7LyUxc3VwZXJzY3JpcHRzaGlmdEdRIjBGJy8lK2ZvcmVncm91bmRHUSpbMCwwLDI1NV1GJy8lKXJlYWRvbmx5R0YzLyUwZm9udF9zdHlsZV9uYW1lR1EqMkR+T3V0cHV0RidGO0Y3LUYjNilGVi1GODYtUTEmSW52aXNpYmxlVGltZXM7RidGO0Y9RkBGQkZERkZGSEZKL0ZNUSYwLjBlbUYnL0ZQRmhvLUYjNiktRi42JVEkc2luRicvRjJGP0Y7LUY4Ni1RMCZBcHBseUZ1bmN0aW9uO0YnRjtGPUZARkJGREZGRkhGSkZnb0Zpby1JKG1mZW5jZWRHRiQ2JC1GIzYnRi1Gam5GXW9GX29GO0Y7RmpuRl1vRl9vRjtGam5GXW9GX29GOy1GODYtUSI9RidGO0Y9RkBGQkZERkZGSEZKL0ZNUSwwLjI3Nzc3NzhlbUYnL0ZQRlxxLUZUNiVGVi1GWjYkUSIzRidGO0ZnbkY3LUYuNiVRJyYjOTYwO0YnRl9wRjtGam5GXW9GX29GOy1GLjYjUSFGJ0ZqbkZdb0Zfb0Y7">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUYjNi8tSSNtaUdGJDYlUSJ4RicvJSdpdGFsaWNHUSV0cnVlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkjbW9HRiQ2LVEiK0YnL0Y1USdub3JtYWxGJy8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGPy8lKXN0cmV0Y2h5R0Y/LyUqc3ltbWV0cmljR0Y/LyUobGFyZ2VvcEdGPy8lLm1vdmFibGVsaW1pdHNHRj8vJSdhY2NlbnRHRj8vJSdsc3BhY2VHUSwwLjIyMjIyMjJlbUYnLyUncnNwYWNlR0ZOLUYjNictSSVtc3VwR0YkNiUtRi42JVEieUYnRjFGNC1JI21uR0YkNiRRIjJGJ0Y7LyUxc3VwZXJzY3JpcHRzaGlmdEdRIjBGJy8lK2ZvcmVncm91bmRHUSpbMCwwLDI1NV1GJy8lKXJlYWRvbmx5R0YzLyUwZm9udF9zdHlsZV9uYW1lR1EqMkR+T3V0cHV0RidGO0Y3LUYjNilGVi1GODYtUTEmSW52aXNpYmxlVGltZXM7RidGO0Y9RkBGQkZERkZGSEZKL0ZNUSYwLjBlbUYnL0ZQRmhvLUYjNiktRi42JVEkc2luRicvRjJGP0Y7LUY4Ni1RMCZBcHBseUZ1bmN0aW9uO0YnRjtGPUZARkJGREZGRkhGSkZnb0Zpby1JKG1mZW5jZWRHRiQ2JC1GIzYnRi1Gam5GXW9GX29GO0Y7RmpuRl1vRl9vRjtGam5GXW9GX29GOy1GODYtUSI9RidGO0Y9RkBGQkZERkZGSEZKL0ZNUSwwLjI3Nzc3NzhlbUYnL0ZQRlxxLUZUNiVGVi1GWjYkUSIzRidGO0ZnbkY3LUYuNiVRJyYjOTYwO0YnRl9wRjtGam5GXW9GX29GOy1GLjYjUSFGJ0ZqbkZdb0Zfb0Y7</Equation></Text-field></Title>
+<Group labelreference="L3" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">f1:=x-&gt;x+y^2+y*sin(x)=(y)^(3)+Pi;</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUkjbWlHRiQ2JVEjZjFGJy8lJ2l0YWxpY0dRJXRydWVGJy8lLG1hdGh2YXJpYW50R1EnaXRhbGljRictSSNtb0dGJDYtUSM6PUYnL0YzUSdub3JtYWxGJy8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGPS8lKXN0cmV0Y2h5R0Y9LyUqc3ltbWV0cmljR0Y9LyUobGFyZ2VvcEdGPS8lLm1vdmFibGVsaW1pdHNHRj0vJSdhY2NlbnRHRj0vJSdsc3BhY2VHUSwwLjI3Nzc3NzhlbUYnLyUncnNwYWNlR0ZMLUYjNigtRiw2JVEieEYnRi9GMi1GNjYtUSgmIzg1OTQ7RidGOUY7Rj5GQEZCRkRGRkZIL0ZLUSYwLjBlbUYnL0ZORlgtRiM2KC1GIzYoRlEtRjY2LVEiK0YnRjlGO0Y+RkBGQkZERkZGSC9GS1EsMC4yMjIyMjIyZW1GJy9GTkZcby1GIzYkLUklbXN1cEdGJDYlLUYsNiVRInlGJ0YvRjItSSNtbkdGJDYkUSIyRidGOS8lMXN1cGVyc2NyaXB0c2hpZnRHUSIwRidGOUZobi1GIzYmRmNvLUY2Ni1RMSZJbnZpc2libGVUaW1lcztGJ0Y5RjtGPkZARkJGREZGRkhGV0ZZLUYjNigtRiw2JVEkc2luRicvRjBGPUY5LUY2Ni1RMCZBcHBseUZ1bmN0aW9uO0YnRjlGO0Y+RkBGQkZERkZGSEZXRlktSShtZmVuY2VkR0YkNiQtRiM2JkZRLyUrZm9yZWdyb3VuZEdRKFswLDAsMF1GJy8lKXJlYWRvbmx5R0Y9RjlGOUZgcUZjcUY5RjlGOS1GNjYtUSI9RidGOUY7Rj5GQEZCRkRGRkZIRkpGTS1GIzYmLUYjNiQtRmFvNiVGY28tRmdvNiRRIjNGJ0Y5RmpvRjlGaG4tRiw2JVEnJiM5NjA7RidGZ3BGOUY5RmBxRmNxRjlGYHFGY3FGOUZgcUZjcUY5">Zio2I0kieEc2IkYlNiRJKW9wZXJhdG9yR0YlSSZhcnJvd0dGJUYlLywoOSQiIiIqJEkieUdGJSIiI0YsKiZGLkYsLUkkc2luR0YlNiNGK0YsRiwsJiokRi4iIiRGLEkjUGlHJSpwcm90ZWN0ZWRHRixGJUYlRiU=</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L30" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field style="Text" layout="Normal">1ra manera de obtener la derivada implicita:</Text-field>
+</Input>
+</Group>
+<Group labelreference="L4" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">dy/dx=implicitdiff(x+y^2+y*sin(x)=(y)^(3)+Pi,y,x);</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUkmbWZyYWNHRiQ2KC1GIzYmLUkjbWlHRiQ2JVEjZHlGJy8lJ2l0YWxpY0dRJXRydWVGJy8lLG1hdGh2YXJpYW50R1EnaXRhbGljRicvJStmb3JlZ3JvdW5kR1EoWzAsMCwwXUYnLyUpcmVhZG9ubHlHUSZmYWxzZUYnL0Y4USdub3JtYWxGJy1GIzYmLUYxNiVRI2R4RidGNEY3RjpGPUZALyUubGluZXRoaWNrbmVzc0dRIjFGJy8lK2Rlbm9tYWxpZ25HUSdjZW50ZXJGJy8lKW51bWFsaWduR0ZMLyUpYmV2ZWxsZWRHRj8tSSNtb0dGJDYtUSI9RidGQC8lJmZlbmNlR0Y/LyUqc2VwYXJhdG9yR0Y/LyUpc3RyZXRjaHlHRj8vJSpzeW1tZXRyaWNHRj8vJShsYXJnZW9wR0Y/LyUubW92YWJsZWxpbWl0c0dGPy8lJ2FjY2VudEdGPy8lJ2xzcGFjZUdRLDAuMjc3Nzc3OGVtRicvJSdyc3BhY2VHRl9vLUYsNigtRiM2Ji1GIzYmLUkjbW5HRiQ2JEZJRkAtRlI2LVEiK0YnRkBGVUZXRllGZW5GZ25GaW5GW28vRl5vUSwwLjIyMjIyMjJlbUYnL0Zhb0ZfcC1GIzYmLUYxNiVRInlGJ0Y0RjctRlI2LVExJkludmlzaWJsZVRpbWVzO0YnRkBGVUZXRllGZW5GZ25GaW5GW28vRl5vUSYwLjBlbUYnL0Zhb0ZqcC1GIzYoLUYxNiVRJGNvc0YnL0Y1Rj9GQC1GUjYtUTAmQXBwbHlGdW5jdGlvbjtGJ0ZARlVGV0ZZRmVuRmduRmluRltvRmlwRltxLUkobWZlbmNlZEdGJDYkLUYjNiYtRjE2JVEieEYnRjRGN0Y6Rj1GQEZARjpGPUZARkBGQEY6Rj1GQC1GIzYmLUYjNigtRiM2Ji1GaW82JFEiM0YnRkBGZnAtSSVtc3VwR0YkNiVGY3AtRmlvNiRRIjJGJ0ZALyUxc3VwZXJzY3JpcHRzaGlmdEdRIjBGJ0ZALUZSNi1RKCZtaW51cztGJ0ZARlVGV0ZZRmVuRmduRmluRltvRl5wRmBwLUYjNiZGaXJGZnBGY3BGQEZfcy1GIzYoLUYxNiVRJHNpbkYnRmFxRkBGYnFGZXFGOkY9RkBGQEY6Rj1GQEZHRkpGTUZPRjpGPUZA">LyomSSNkeUc2IiIiIkkjZHhHRiUhIiIqJiwmRiZGJiomSSJ5R0YlRiYtSSRjb3NHNiQlKnByb3RlY3RlZEdJKF9zeXNsaWJHRiU2I0kieEdGJUYmRiZGJiwoKiRGLCIiIyIiJEYsISIjLUkkc2luR0YvRjJGKEYo</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L31" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field style="Text" layout="Normal">2da manera de obtener la derivada implicita:</Text-field>
+</Input>
+</Group>
+<Group labelreference="L5" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">dimp1:=implicitdiff(f1(x),y,x);</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUkjbWlHRiQ2JVEmZGltcDFGJy8lJ2l0YWxpY0dRJXRydWVGJy8lLG1hdGh2YXJpYW50R1EnaXRhbGljRictSSNtb0dGJDYtUSM6PUYnL0YzUSdub3JtYWxGJy8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGPS8lKXN0cmV0Y2h5R0Y9LyUqc3ltbWV0cmljR0Y9LyUobGFyZ2VvcEdGPS8lLm1vdmFibGVsaW1pdHNHRj0vJSdhY2NlbnRHRj0vJSdsc3BhY2VHUSwwLjI3Nzc3NzhlbUYnLyUncnNwYWNlR0ZMLUkmbWZyYWNHRiQ2KC1GIzYmLUYjNiYtSSNtbkdGJDYkUSIxRidGOS1GNjYtUSIrRidGOUY7Rj5GQEZCRkRGRkZIL0ZLUSwwLjIyMjIyMjJlbUYnL0ZORmhuLUYjNiYtRiw2JVEieUYnRi9GMi1GNjYtUTEmSW52aXNpYmxlVGltZXM7RidGOUY7Rj5GQEZCRkRGRkZIL0ZLUSYwLjBlbUYnL0ZORmNvLUYjNigtRiw2JVEkY29zRicvRjBGPUY5LUY2Ni1RMCZBcHBseUZ1bmN0aW9uO0YnRjlGO0Y+RkBGQkZERkZGSEZib0Zkby1JKG1mZW5jZWRHRiQ2JC1GIzYmLUYsNiVRInhGJ0YvRjIvJStmb3JlZ3JvdW5kR1EoWzAsMCwwXUYnLyUpcmVhZG9ubHlHRj1GOUY5RmZwRmlwRjlGOUY5RmZwRmlwRjktRiM2Ji1GIzYoLUYjNiYtRlc2JFEiM0YnRjlGX28tSSVtc3VwR0YkNiVGXG8tRlc2JFEiMkYnRjkvJTFzdXBlcnNjcmlwdHNoaWZ0R1EiMEYnRjktRjY2LVEoJm1pbnVzO0YnRjlGO0Y+RkBGQkZERkZGSEZnbkZpbi1GIzYmRmdxRl9vRlxvRjlGXXItRiM2KC1GLDYlUSRzaW5GJ0Zqb0Y5RltwRl5wRmZwRmlwRjlGOUZmcEZpcEY5LyUubGluZXRoaWNrbmVzc0dGWS8lK2Rlbm9tYWxpZ25HUSdjZW50ZXJGJy8lKW51bWFsaWduR0Zbcy8lKWJldmVsbGVkR0Y9RmZwRmlwRjk=">KiYsJiIiIkYkKiZJInlHNiJGJC1JJGNvc0c2JCUqcHJvdGVjdGVkR0koX3N5c2xpYkdGJzYjSSJ4R0YnRiRGJEYkLCgqJEYmIiIjIiIkRiYhIiMtSSRzaW5HRipGLSEiIkY2</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L32" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field style="Text" layout="Normal">Se simplifica (si es posible), la expresion resultante de la derivada implicita.</Text-field>
+</Input>
+</Group><Presentation-Block>
+<Group view="code" labelreference="L13" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">simplify(%);</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYnLUkjbW9HRiQ2LVEqJnVtaW51czA7RicvJSxtYXRodmFyaWFudEdRJ25vcm1hbEYnLyUmZmVuY2VHUSZmYWxzZUYnLyUqc2VwYXJhdG9yR0Y0LyUpc3RyZXRjaHlHRjQvJSpzeW1tZXRyaWNHRjQvJShsYXJnZW9wR0Y0LyUubW92YWJsZWxpbWl0c0dGNC8lJ2FjY2VudEdGNC8lJ2xzcGFjZUdRLDAuMjIyMjIyMmVtRicvJSdyc3BhY2VHRkMtSSZtZnJhY0dGJDYoLUYjNiYtRiM2Ji1JI21uR0YkNiRRIjFGJ0YvLUYsNi1RIitGJ0YvRjJGNUY3RjlGO0Y9Rj9GQUZELUYjNiYtSSNtaUdGJDYlUSJ5RicvJSdpdGFsaWNHUSV0cnVlRicvRjBRJ2l0YWxpY0YnLUYsNi1RMSZJbnZpc2libGVUaW1lcztGJ0YvRjJGNUY3RjlGO0Y9Rj8vRkJRJjAuMGVtRicvRkVGXW8tRiM2KC1GVzYlUSRjb3NGJy9GZW5GNEYvLUYsNi1RMCZBcHBseUZ1bmN0aW9uO0YnRi9GMkY1RjdGOUY7Rj1GP0Zcb0Zeby1JKG1mZW5jZWRHRiQ2JC1GIzYmLUZXNiVRInhGJ0ZaRmduLyUrZm9yZWdyb3VuZEdRKFswLDAsMF1GJy8lKXJlYWRvbmx5R0Y0Ri9GL0ZgcEZjcEYvRi9GL0ZgcEZjcEYvLUYjNiYtRiM2KUYrLUYjNiYtRk42JFEiM0YnRi9GaW4tSSVtc3VwR0YkNiVGVi1GTjYkUSIyRidGLy8lMXN1cGVyc2NyaXB0c2hpZnRHUSIwRidGL0ZRLUYjNigtRlc2JVEkc2luRidGZG9GL0Zlb0Zob0ZgcEZjcEYvRlEtRiM2JkZhcUZpbkZWRi9GL0ZgcEZjcEYvLyUubGluZXRoaWNrbmVzc0dGUC8lK2Rlbm9tYWxpZ25HUSdjZW50ZXJGJy8lKW51bWFsaWduR0Zici8lKWJldmVsbGVkR0Y0RmBwRmNwRi8=">LCQqJiwmIiIiRiUqJkkieUc2IkYlLUkkY29zRzYkJSpwcm90ZWN0ZWRHSShfc3lzbGliR0YoNiNJInhHRihGJUYlRiUsKCokRiciIiMhIiQtSSRzaW5HRitGLkYlRidGMiEiIkY2</Equation></Text-field>
+</Output>
+</Group></Presentation-Block>
+<Group labelreference="L6" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field style="Text" layout="Normal"><Font encoding="UTF-8">Para encontrar la pendiente, se evalua el puno (\317\200,1), en la ecuacion resultante de la derivada implicita:</Font></Text-field>
+</Input>
+</Group>
+<Group labelreference="L7" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">eval(dimp1,[x=Pi, y=1]); #Se sustituyen ambos valores, de x y el de y</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiIh</Equation></Text-field>
+</Output>
+</Group>
+</Section>
+<Section collapsed="true" MultipleChoiceAnswerIndex="-1" MultipleChoiceRandomizeChoices="false" TrueFalseAnswerIndex="-1" EssayAnswerRows="5" EssayAnswerColumns="60"><Title>
+<Text-field style="Heading 1" layout="Heading 1"><Font size="12">Ejercicio 2.2 </Font><Equation executable="false" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYpLUkmbWZyYWNHRiQ2KC1GIzYnLUYjNiktSSNtaUdGJDYlUSJ4RicvJSdpdGFsaWNHUSV0cnVlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkjbW9HRiQ2LVEiK0YnL0Y6USdub3JtYWxGJy8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGRC8lKXN0cmV0Y2h5R0ZELyUqc3ltbWV0cmljR0ZELyUobGFyZ2VvcEdGRC8lLm1vdmFibGVsaW1pdHNHRkQvJSdhY2NlbnRHRkQvJSdsc3BhY2VHUSwwLjIyMjIyMjJlbUYnLyUncnNwYWNlR0ZTLUkmbXNxcnRHRiQ2Iy1GMzYlUSJ5RidGNkY5LyUrZm9yZWdyb3VuZEdRKlswLDAsMjU1XUYnLyUpcmVhZG9ubHlHRjgvJTBmb250X3N0eWxlX25hbWVHUSoyRH5PdXRwdXRGJ0ZARmZuRmluRltvRkAtRiM2Jy1GIzYpRllGPC1GVzYjRjJGZm5GaW5GW29GQEZmbkZpbkZbb0ZALyUubGluZXRoaWNrbmVzc0dRIjFGJy8lK2Rlbm9tYWxpZ25HUSdjZW50ZXJGJy8lKW51bWFsaWduR0Zpby8lKWJldmVsbGVkR0ZELUY9Ni1RIj1GJ0ZARkJGRUZHRklGS0ZNRk8vRlJRLDAuMjc3Nzc3OGVtRicvRlVGYnAtRiw2KC1GIzYnLUYjNiktRiM2KS1JI21uR0YkNiRRIjNGJ0ZALUY9Ni1RMSZJbnZpc2libGVUaW1lcztGJ0ZARkJGRUZHRklGS0ZNRk8vRlJRJjAuMGVtRicvRlVGZHFGWUZmbkZpbkZbb0ZALUY9Ni1RKCZtaW51cztGJ0ZARkJGRUZHRklGS0ZNRk9GUUZULUYjNiktRl1xNiRRIjlGJ0ZARmBxRjJGZm5GaW5GW29GQEZmbkZpbkZbb0ZARmZuRmluRltvRkAtRiM2Jy1GIzYpRjJGPEZZRmZuRmluRltvRkBGZm5GaW5GW29GQEZkb0Znb0Zqb0ZccEZmbkZpbkZbb0ZA">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYpLUkmbWZyYWNHRiQ2KC1GIzYnLUYjNiktSSNtaUdGJDYlUSJ4RicvJSdpdGFsaWNHUSV0cnVlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkjbW9HRiQ2LVEiK0YnL0Y6USdub3JtYWxGJy8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGRC8lKXN0cmV0Y2h5R0ZELyUqc3ltbWV0cmljR0ZELyUobGFyZ2VvcEdGRC8lLm1vdmFibGVsaW1pdHNHRkQvJSdhY2NlbnRHRkQvJSdsc3BhY2VHUSwwLjIyMjIyMjJlbUYnLyUncnNwYWNlR0ZTLUkmbXNxcnRHRiQ2Iy1GMzYlUSJ5RidGNkY5LyUrZm9yZWdyb3VuZEdRKlswLDAsMjU1XUYnLyUpcmVhZG9ubHlHRjgvJTBmb250X3N0eWxlX25hbWVHUSoyRH5PdXRwdXRGJ0ZARmZuRmluRltvRkAtRiM2Jy1GIzYpRllGPC1GVzYjRjJGZm5GaW5GW29GQEZmbkZpbkZbb0ZALyUubGluZXRoaWNrbmVzc0dRIjFGJy8lK2Rlbm9tYWxpZ25HUSdjZW50ZXJGJy8lKW51bWFsaWduR0Zpby8lKWJldmVsbGVkR0ZELUY9Ni1RIj1GJ0ZARkJGRUZHRklGS0ZNRk8vRlJRLDAuMjc3Nzc3OGVtRicvRlVGYnAtRiw2KC1GIzYnLUYjNiktRiM2KS1JI21uR0YkNiRRIjNGJ0ZALUY9Ni1RMSZJbnZpc2libGVUaW1lcztGJ0ZARkJGRUZHRklGS0ZNRk8vRlJRJjAuMGVtRicvRlVGZHFGWUZmbkZpbkZbb0ZALUY9Ni1RKCZtaW51cztGJ0ZARkJGRUZHRklGS0ZNRk9GUUZULUYjNiktRl1xNiRRIjlGJ0ZARmBxRjJGZm5GaW5GW29GQEZmbkZpbkZbb0ZARmZuRmluRltvRkAtRiM2Jy1GIzYpRjJGPEZZRmZuRmluRltvRkBGZm5GaW5GW29GQEZkb0Znb0Zqb0ZccEZmbkZpbkZbb0ZA</Equation></Text-field></Title>
+<Group labelreference="L8" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">f2:=x-&gt;(x+sqrt(y))/(y+sqrt(x))=((3*y -9*x))/(x+y);</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUkjbWlHRiQ2JVEjZjJGJy8lJ2l0YWxpY0dRJXRydWVGJy8lLG1hdGh2YXJpYW50R1EnaXRhbGljRictSSNtb0dGJDYtUSM6PUYnL0YzUSdub3JtYWxGJy8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGPS8lKXN0cmV0Y2h5R0Y9LyUqc3ltbWV0cmljR0Y9LyUobGFyZ2VvcEdGPS8lLm1vdmFibGVsaW1pdHNHRj0vJSdhY2NlbnRHRj0vJSdsc3BhY2VHUSwwLjI3Nzc3NzhlbUYnLyUncnNwYWNlR0ZMLUYjNigtRiw2JVEieEYnRi9GMi1GNjYtUSgmIzg1OTQ7RidGOUY7Rj5GQEZCRkRGRkZIL0ZLUSYwLjBlbUYnL0ZORlgtRiM2KC1JJm1mcmFjR0YkNigtRiM2Ji1GIzYmRlEtRjY2LVEiK0YnRjlGO0Y+RkBGQkZERkZGSC9GS1EsMC4yMjIyMjIyZW1GJy9GTkZhby1JJm1zcXJ0R0YkNiMtRiw2JVEieUYnRi9GMkY5LyUrZm9yZWdyb3VuZEdRKFswLDAsMF1GJy8lKXJlYWRvbmx5R0Y9RjktRiM2Ji1GIzYmRmZvRl1vLUZkbzYjRlFGOUZpb0ZccEY5LyUubGluZXRoaWNrbmVzc0dRIjFGJy8lK2Rlbm9tYWxpZ25HUSdjZW50ZXJGJy8lKW51bWFsaWduR0ZpcC8lKWJldmVsbGVkR0Y9LUY2Ni1RIj1GJ0Y5RjtGPkZARkJGREZGRkhGSkZNLUZnbjYoLUYjNiYtRiM2Ji1GIzYmLUkjbW5HRiQ2JFEiM0YnRjktRjY2LVExJkludmlzaWJsZVRpbWVzO0YnRjlGO0Y+RkBGQkZERkZGSEZXRllGZm9GOS1GNjYtUSgmbWludXM7RidGOUY7Rj5GQEZCRkRGRkZIRmBvRmJvLUYjNiYtRmpxNiRRIjlGJ0Y5Rl1yRlFGOUY5RmlvRlxwRjktRiM2Ji1GIzYmRlFGXW9GZm9GOUZpb0ZccEY5RmRwRmdwRmpwRlxxRmlvRlxwRjlGaW9GXHBGOUZpb0ZccEY5">Zio2I0kieEc2IkYlNiRJKW9wZXJhdG9yR0YlSSZhcnJvd0dGJUYlLyomLCY5JCIiIi1JJXNxcnRHRiU2I0kieUdGJUYtRi0sJkYxRi0tRi82I0YsRi0hIiIqJiwmRjEiIiRGLCEiKkYtLCZGLEYtRjFGLUY1RiVGJUYl</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L33" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field style="Text" layout="Normal">1ra manera de obtener la derivada implicita:</Text-field>
+</Input>
+</Group>
+<Group labelreference="L9" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">dy/dx=implicitdiff((x+sqrt(y))/(y+sqrt(x))=((3*y -9*x))/(x+y),y,x); </Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUkmbWZyYWNHRiQ2KC1GIzYmLUkjbWlHRiQ2JVEjZHlGJy8lJ2l0YWxpY0dRJXRydWVGJy8lLG1hdGh2YXJpYW50R1EnaXRhbGljRicvJStmb3JlZ3JvdW5kR1EoWzAsMCwwXUYnLyUpcmVhZG9ubHlHUSZmYWxzZUYnL0Y4USdub3JtYWxGJy1GIzYmLUYxNiVRI2R4RidGNEY3RjpGPUZALyUubGluZXRoaWNrbmVzc0dRIjFGJy8lK2Rlbm9tYWxpZ25HUSdjZW50ZXJGJy8lKW51bWFsaWduR0ZMLyUpYmV2ZWxsZWRHRj8tSSNtb0dGJDYtUSI9RidGQC8lJmZlbmNlR0Y/LyUqc2VwYXJhdG9yR0Y/LyUpc3RyZXRjaHlHRj8vJSpzeW1tZXRyaWNHRj8vJShsYXJnZW9wR0Y/LyUubW92YWJsZWxpbWl0c0dGPy8lJ2FjY2VudEdGPy8lJ2xzcGFjZUdRLDAuMjc3Nzc3OGVtRicvJSdyc3BhY2VHRl9vLUYjNictRlI2LVEqJnVtaW51czA7RidGQEZVRldGWUZlbkZnbkZpbkZbby9GXm9RLDAuMjIyMjIyMmVtRicvRmFvRmhvLUYsNigtRiM2Ji1GIzY3RmRvLUYjNigtSSNtbkdGJDYkUSMyNkYnRkAtRlI2LVExJkludmlzaWJsZVRpbWVzO0YnRkBGVUZXRllGZW5GZ25GaW5GW28vRl5vUSYwLjBlbUYnL0Zhb0ZqcC1JJW1zdXBHRiQ2JS1GMTYlUSJ5RidGNEY3LUYjNigtRmNwNiRRIjdGJ0ZALUZSNi1RIi9GJ0ZARlVGVy9GWkY2RmVuRmduRmluRltvL0Zeb1EsMC4xNjY2NjY3ZW1GJy9GYW9GXHItRmNwNiRRIjJGJ0ZARjpGPUZALyUxc3VwZXJzY3JpcHRzaGlmdEdRIjBGJ0ZmcC1JJm1zcXJ0R0YkNiMtRjE2JVEieEYnRjRGN0ZALUZSNi1RKCZtaW51cztGJ0ZARlVGV0ZZRmVuRmduRmluRltvRmdvRmlvLUYjNigtRmNwNiRRIjRGJ0ZARmZwLUZdcTYlRl9xLUYjNigtRmNwNiRRIjVGJ0ZARmdxRl5yRjpGPUZARmFyRmZwLUZdcTYlRmdyLUYjNigtRmNwNiRRIjNGJ0ZARmdxRl5yRjpGPUZARmFyRkBGanItRiM2KEZeckZmcC1GXXE2JUZfcUZbdEZhckZmcC1GXXE2JUZnckZkc0ZhckZARmpyLUYjNigtRmNwNiRRIzQ5RidGQEZmcEZic0ZmcEZnckZARmpyLUYjNigtRmNwNiRRIzI0RidGQEZmcEZidEZmcEZpc0ZARmpyLUYjNihGXnJGZnBGYnRGZnAtRl1xNiVGZ3JGXnJGYXJGQEZqci1GIzYmLUZlcjYjRl9xRmZwLUZdcTYlRmdyRl10RmFyRkAtRlI2LVEiK0YnRkBGVUZXRllGZW5GZ25GaW5GW29GZ29GaW8tRiM2JC1GXXE2JUZfcUZddEZhckZARmp1LUYjNihGXnJGZnAtRl1xNiVGX3FGXnJGYXJGZnBGZ3JGQEZqdS1GIzYmRl9xRmZwRmJ1RkBGQEY6Rj1GQC1GIzYmLUYjNjgtRiM2KEZicEZmcEZic0ZmcEZpc0ZARmp1LUYjNihGXnJGZnBGY3ZGZnBGaXNGQEZqdS1GIzYoLUZjcDYkUSM0OEYnRkBGZnBGYnRGZnBGYnVGQEZqdS1GIzYoRl9zRmZwRmJ0RmZwRmR0RkBGanUtRiM2JkZfdkZmcEZkckZARmp1LUYjNiZGX3FGZnBGZHRGQEZqdS1GIzYoRl11RmZwRmZ1RmZwRmR0RkBGanUtRiM2KEZeckZmcEZmdUZmcC1GXXE2JUZnckZicUZhckZARmpyLUYjNihGXnJGZnBGX3FGZnBGYnVGQEZqci1GIzYmRmN2RmZwRmdyRkBGanItRiM2JEZodUZARkBGOkY9RkBGR0ZKRk1GT0Y6Rj1GQEY6Rj1GQA==">LyomSSNkeUc2IiIiIkkjZHhHRiUhIiIsJComLDYqJkkieUdGJSMiIigiIiNJInhHRiUjRiZGMCEjRSomRi0jIiImRjBGMSMiIiRGMCEiJSomRi1GN0YxRjUhIiMqJkYtRjVGMUYmISNcKiZGLUY3RjFGNyEjQyomRi1GN0YxRjBGOyomRi1GMkYxRjhGKCokRi1GOEYmKiZGLUYwRjFGJkYwKiZGLUYmRjFGMEYmRiYsOEY0IiNFKiZGLUYwRjFGN0YwRkAiI1tGOiIiJSomRi1GOEYxRjJGJiomRi1GJkYxRjVGJiomRi1GMkYxRjUiI0MqJkYtRjJGMUYuRjBGREY7RkNGKCokRjFGOEYoRihGKA==</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L34" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field style="Text" layout="Normal">2da manera de obtener la derivada implicita:</Text-field>
+</Input>
+</Group>
+<Group labelreference="L10" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">dimp2:=implicitdiff(f2(x),y,x);</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUkjbWlHRiQ2JVEmZGltcDJGJy8lJ2l0YWxpY0dRJXRydWVGJy8lLG1hdGh2YXJpYW50R1EnaXRhbGljRictSSNtb0dGJDYtUSM6PUYnL0YzUSdub3JtYWxGJy8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGPS8lKXN0cmV0Y2h5R0Y9LyUqc3ltbWV0cmljR0Y9LyUobGFyZ2VvcEdGPS8lLm1vdmFibGVsaW1pdHNHRj0vJSdhY2NlbnRHRj0vJSdsc3BhY2VHUSwwLjI3Nzc3NzhlbUYnLyUncnNwYWNlR0ZMLUYjNictRjY2LVEqJnVtaW51czA7RidGOUY7Rj5GQEZCRkRGRkZIL0ZLUSwwLjIyMjIyMjJlbUYnL0ZORlUtSSZtZnJhY0dGJDYoLUYjNiYtRiM2N0ZRLUYjNigtSSNtbkdGJDYkUSMyNkYnRjktRjY2LVExJkludmlzaWJsZVRpbWVzO0YnRjlGO0Y+RkBGQkZERkZGSC9GS1EmMC4wZW1GJy9GTkZiby1JJW1zdXBHRiQ2JS1GLDYlUSJ5RidGL0YyLUYjNigtRltvNiRRIjdGJ0Y5LUY2Ni1RIi9GJ0Y5RjtGPi9GQUYxRkJGREZGRkgvRktRLDAuMTY2NjY2N2VtRicvRk5GZHAtRltvNiRRIjJGJ0Y5LyUrZm9yZWdyb3VuZEdRKFswLDAsMF1GJy8lKXJlYWRvbmx5R0Y9RjkvJTFzdXBlcnNjcmlwdHNoaWZ0R1EiMEYnRl5vLUkmbXNxcnRHRiQ2Iy1GLDYlUSJ4RidGL0YyRjktRjY2LVEoJm1pbnVzO0YnRjlGO0Y+RkBGQkZERkZGSEZURlYtRiM2KC1GW282JFEiNEYnRjlGXm8tRmVvNiVGZ28tRiM2KC1GW282JFEiNUYnRjlGX3BGZnBGaXBGXHFGOUZecUZeby1GZW82JUZkcS1GIzYoLUZbbzYkUSIzRidGOUZfcEZmcEZpcEZccUY5Rl5xRjlGZ3EtRiM2KEZmcEZeby1GZW82JUZnb0ZockZecUZeby1GZW82JUZkcUZhckZecUY5RmdxLUYjNigtRltvNiRRIzQ5RidGOUZeb0ZfckZeb0ZkcUY5RmdxLUYjNigtRltvNiRRIzI0RidGOUZeb0Zfc0Zeb0ZmckY5RmdxLUYjNihGZnBGXm9GX3NGXm8tRmVvNiVGZHFGZnBGXnFGOUZncS1GIzYmLUZicTYjRmdvRl5vLUZlbzYlRmRxRmpyRl5xRjktRjY2LVEiK0YnRjlGO0Y+RkBGQkZERkZGSEZURlYtRiM2JC1GZW82JUZnb0ZqckZecUY5Rmd0LUYjNihGZnBGXm8tRmVvNiVGZ29GZnBGXnFGXm9GZHFGOUZndC1GIzYmRmdvRl5vRl90RjlGOUZpcEZccUY5LUYjNiYtRiM2OC1GIzYoRmpuRl5vRl9yRl5vRmZyRjlGZ3QtRiM2KEZmcEZeb0ZgdUZeb0ZmckY5Rmd0LUYjNigtRltvNiRRIzQ4RidGOUZeb0Zfc0Zeb0ZfdEY5Rmd0LUYjNihGXHJGXm9GX3NGXm9GYXNGOUZndC1GIzYmRlx1Rl5vRmFxRjlGZ3QtRiM2JkZnb0Zeb0Zhc0Y5Rmd0LUYjNihGanNGXm9GY3RGXm9GYXNGOUZndC1GIzYoRmZwRl5vRmN0Rl5vLUZlbzYlRmRxRmpvRl5xRjlGZ3EtRiM2KEZmcEZeb0Znb0Zeb0ZfdEY5RmdxLUYjNiZGYHVGXm9GZHFGOUZncS1GIzYkRmV0RjlGOUZpcEZccUY5LyUubGluZXRoaWNrbmVzc0dRIjFGJy8lK2Rlbm9tYWxpZ25HUSdjZW50ZXJGJy8lKW51bWFsaWduR0Zody8lKWJldmVsbGVkR0Y9RmlwRlxxRjlGaXBGXHFGOQ==">LCQqJiw2KiZJInlHNiIjIiIoIiIjSSJ4R0YnIyIiIkYqISNFKiZGJiMiIiZGKkYrIyIiJEYqISIlKiZGJkYyRitGMCEiIyomRiZGMEYrRi0hI1wqJkYmRjJGK0YyISNDKiZGJkYyRitGKkY2KiZGJkYsRitGMyEiIiokRiZGM0YtKiZGJkYqRitGLUYqKiZGJkYtRitGKkYtRi0sOEYvIiNFKiZGJkYqRitGMkYqRjsiI1tGNSIiJSomRiZGM0YrRixGLSomRiZGLUYrRjBGLSomRiZGLEYrRjAiI0MqJkYmRixGK0YoRipGQEY2Rj9GPSokRitGM0Y9Rj1GPQ==</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L35" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field style="Text" layout="Normal">Se simplifica (si es posible), la expresion resultante de la derivada implicita.</Text-field>
+</Input>
+</Group>
+<Group labelreference="L11" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">simplify(%);</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUkmbWZyYWNHNiMvSSttb2R1bGVuYW1lRzYiSSxUeXBlc2V0dGluZ0dJKF9zeXNsaWJHRic2KC1JJW1yb3dHRiQ2Ji1GLDY2LUYsNigtSSNtbkdGJDYkUSMyNkYnLyUsbWF0aHZhcmlhbnRHUSdub3JtYWxGJy1JI21vR0YkNi1RMSZJbnZpc2libGVUaW1lcztGJ0Y2LyUmZmVuY2VHUSZmYWxzZUYnLyUqc2VwYXJhdG9yR0Y/LyUpc3RyZXRjaHlHRj8vJSpzeW1tZXRyaWNHRj8vJShsYXJnZW9wR0Y/LyUubW92YWJsZWxpbWl0c0dGPy8lJ2FjY2VudEdGPy8lJ2xzcGFjZUdRJjAuMGVtRicvJSdyc3BhY2VHRk4tSSVtc3VwR0YkNiUtSSNtaUdGJDYlUSJ5RicvJSdpdGFsaWNHUSV0cnVlRicvRjdRJ2l0YWxpY0YnLUYsNigtRjM2JFEiN0YnRjYtRjo2LVEiL0YnRjZGPUZAL0ZDRlpGREZGRkhGSi9GTVEsMC4xNjY2NjY3ZW1GJy9GUEZhby1GMzYkUSIyRidGNi8lK2ZvcmVncm91bmRHUShbMCwwLDBdRicvJSlyZWFkb25seUdGP0Y2LyUxc3VwZXJzY3JpcHRzaGlmdEdRIjBGJ0Y5LUkmbXNxcnRHRiQ2Iy1GVTYlUSJ4RidGWEZlbkY2LUY6Ni1RIitGJ0Y2Rj1GQEZCRkRGRkZIRkovRk1RLDAuMjIyMjIyMmVtRicvRlBGaHAtRiw2KC1GMzYkUSI0RidGNkY5LUZSNiVGVC1GLDYoLUYzNiRRIjVGJ0Y2RlxvRmNvRmZvRmlvRjZGW3BGOS1GUjYlRmFwLUYsNigtRjM2JFEiM0YnRjZGXG9GY29GZm9GaW9GNkZbcEY2RmRwLUYsNihGY29GOS1GUjYlRlRGaHFGW3BGOS1GUjYlRmFwRmFxRltwRjZGZHAtRiw2KC1GMzYkUSM0OUYnRjZGOUZfcUY5RmFwRjZGZHAtRiw2KC1GMzYkUSMyNEYnRjZGOUZfckY5RmZxRjZGZHAtRiw2KEZjb0Y5Rl9yRjktRlI2JUZhcEZjb0ZbcEY2RmRwLUYsNiYtRl9wNiNGVEY5LUZSNiVGYXBGanFGW3BGNi1GOjYtUSgmbWludXM7RidGNkY9RkBGQkZERkZGSEZKRmdwRmlwLUYsNiQtRlI2JUZURmpxRltwRjZGZ3MtRiw2KEZjb0Y5LUZSNiVGVEZjb0ZbcEY5RmFwRjZGZ3MtRiw2JkZURjlGX3NGNkY2RmZvRmlvRjYtRiw2Ji1GLDY4LUYsNihGMkY5Rl9xRjlGZnFGNkZkcC1GLDYoRmNvRjlGYHRGOUZmcUY2RmRwLUYsNigtRjM2JFEjNDhGJ0Y2RjlGX3JGOUZfc0Y2RmRwLUYsNihGXHFGOUZfckY5RmFyRjZGZHAtRiw2JkZcdEY5Rl5wRjZGZHAtRiw2JkZURjlGYXJGNkZkcC1GLDYoRmpyRjlGY3NGOUZhckY2RmRwLUYsNihGY29GOUZjc0Y5LUZSNiVGYXBGZ25GW3BGNkZncy1GLDYoRmNvRjlGVEY5Rl9zRjZGZ3MtRiw2JkZgdEY5RmFwRjZGZ3MtRiw2JEZlc0Y2RjZGZm9GaW9GNi8lLmxpbmV0aGlja25lc3NHUSIxRicvJStkZW5vbWFsaWduR1EnY2VudGVyRicvJSludW1hbGlnbkdGaHYvJSliZXZlbGxlZEdGPw==">KiYsNiomSSJ5RzYiIyIiKCIiI0kieEdGJiMiIiJGKSIjRSomRiUjIiImRilGKiMiIiRGKSIiJSomRiVGMUYqRi9GKSomRiVGL0YqRiwiI1wqJkYlRjFGKkYxIiNDKiZGJUYxRipGKUYpKiZGJUYrRipGMkYsKiRGJUYyISIiKiZGJUYpRipGLCEiIyomRiVGLEYqRilGPEYsLDhGLkYtKiZGJUYpRipGMUYpRjkiI1tGNEYzKiZGJUYyRipGK0YsKiZGJUYsRipGL0YsKiZGJUYrRipGL0Y4KiZGJUYrRipGJ0YpRj9GPkY9RjwqJEYqRjJGPEY8</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L14" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field style="Text" layout="Normal">Para encontrar la pendiente, se evalua el puno (1,4), en la ecuacion resultante de la derivada implicita.</Text-field>
+</Input>
+</Group>
+<Group labelreference="L15" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">eval(dimp2,[x=1, y=4]); #Se sustituyen ambos valores, de x y y</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYnLUkjbW9HRiQ2LVEqJnVtaW51czA7RicvJSxtYXRodmFyaWFudEdRJ25vcm1hbEYnLyUmZmVuY2VHUSZmYWxzZUYnLyUqc2VwYXJhdG9yR0Y0LyUpc3RyZXRjaHlHRjQvJSpzeW1tZXRyaWNHRjQvJShsYXJnZW9wR0Y0LyUubW92YWJsZWxpbWl0c0dGNC8lJ2FjY2VudEdGNC8lJ2xzcGFjZUdRLDAuMjIyMjIyMmVtRicvJSdyc3BhY2VHRkMtSSZtZnJhY0dGJDYoLUYjNiYtRiM2J0YrLUYjNiYtSSNtbkdGJDYkUSUyNjI1RidGLy1GLDYtUTEmSW52aXNpYmxlVGltZXM7RidGL0YyRjVGN0Y5RjtGPUY/L0ZCUSYwLjBlbUYnL0ZFRlctSSZtc3FydEdGJDYjLUZQNiRRIjRGJ0YvRi8tRiw2LVEiK0YnRi9GMkY1RjdGOUY7Rj1GP0ZBRkQtRlA2JFEkMTAwRidGL0YvLyUrZm9yZWdyb3VuZEdRKFswLDAsMF1GJy8lKXJlYWRvbmx5R0Y0Ri8tRiM2Ji1GIzYmLUYjNiYtRlA2JFEkNjUwRidGL0ZTRllGL0Zpbi1GUDYkUSM3NUYnRi9GL0Zfb0Zib0YvLyUubGluZXRoaWNrbmVzc0dRIjFGJy8lK2Rlbm9tYWxpZ25HUSdjZW50ZXJGJy8lKW51bWFsaWduR0ZlcC8lKWJldmVsbGVkR0Y0Rl9vRmJvRi8=">LCQqJiwmKiQiIiUjIiIiIiIjISVERSIkKyJGKEYoLCZGJSIkXSciI3ZGKCEiIkYv</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L16" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">evalf(%,4); #Valor numerico de la pendiente</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">JCIlWFAhIiQ=</Equation></Text-field>
+</Output>
+</Group>
+</Section>
+<Section collapsed="true" MultipleChoiceAnswerIndex="-1" MultipleChoiceRandomizeChoices="false" TrueFalseAnswerIndex="-1" EssayAnswerRows="5" EssayAnswerColumns="60"><Title>
+<Text-field style="Heading 1" layout="Heading 1"><Font size="12">Ejercicio 2.3 </Font><Equation executable="false" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUYjNjItSSNtb0dGJDYtUSJ+RicvJSxtYXRodmFyaWFudEdRJ25vcm1hbEYnLyUmZmVuY2VHUSZmYWxzZUYnLyUqc2VwYXJhdG9yR0Y2LyUpc3RyZXRjaHlHRjYvJSpzeW1tZXRyaWNHRjYvJShsYXJnZW9wR0Y2LyUubW92YWJsZWxpbWl0c0dGNi8lJ2FjY2VudEdGNi8lJ2xzcGFjZUdRJjAuMGVtRicvJSdyc3BhY2VHRkUtSSNtaUdGJDYlUSJ4RicvJSdpdGFsaWNHUSV0cnVlRicvRjJRJ2l0YWxpY0YnLUYuNi1RIitGJ0YxRjRGN0Y5RjtGPUY/RkEvRkRRLDAuMjIyMjIyMmVtRicvRkdGVS1JJW1zdXBHRiQ2JS1GSTYlUSJ5RidGTEZPLUkjbW5HRiQ2JFEiNUYnRjEvJTFzdXBlcnNjcmlwdHNoaWZ0R1EiMEYnRlEtRmhuNiRRIjFGJ0YxLUYuNi1RIj1GJ0YxRjRGN0Y5RjtGPUY/RkEvRkRRLDAuMjc3Nzc3OGVtRicvRkdGZW9GWkZRLUYjNictRlg2JUZILUZobjYkUSI0RidGMUZbby8lK2ZvcmVncm91bmRHUSpbMCwwLDI1NV1GJy8lKXJlYWRvbmx5R0ZOLyUwZm9udF9zdHlsZV9uYW1lR1EqMkR+T3V0cHV0RidGMUZRLUYjNilGSC1GLjYtUTEmSW52aXNpYmxlVGltZXM7RidGMUY0RjdGOUY7Rj1GP0ZBRkNGRi1GWDYlRlotRmhuNiRRIjJGJ0YxRltvRl5wRmFwRmNwRjFGXnBGYXBGY3BGMS1GSTYjUSFGJ0ZecEZhcEZjcEYx">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUYjNjItSSNtb0dGJDYtUSJ+RicvJSxtYXRodmFyaWFudEdRJ25vcm1hbEYnLyUmZmVuY2VHUSZmYWxzZUYnLyUqc2VwYXJhdG9yR0Y2LyUpc3RyZXRjaHlHRjYvJSpzeW1tZXRyaWNHRjYvJShsYXJnZW9wR0Y2LyUubW92YWJsZWxpbWl0c0dGNi8lJ2FjY2VudEdGNi8lJ2xzcGFjZUdRJjAuMGVtRicvJSdyc3BhY2VHRkUtSSNtaUdGJDYlUSJ4RicvJSdpdGFsaWNHUSV0cnVlRicvRjJRJ2l0YWxpY0YnLUYuNi1RIitGJ0YxRjRGN0Y5RjtGPUY/RkEvRkRRLDAuMjIyMjIyMmVtRicvRkdGVS1JJW1zdXBHRiQ2JS1GSTYlUSJ5RidGTEZPLUkjbW5HRiQ2JFEiNUYnRjEvJTFzdXBlcnNjcmlwdHNoaWZ0R1EiMEYnRlEtRmhuNiRRIjFGJ0YxLUYuNi1RIj1GJ0YxRjRGN0Y5RjtGPUY/RkEvRkRRLDAuMjc3Nzc3OGVtRicvRkdGZW9GWkZRLUYjNictRlg2JUZILUZobjYkUSI0RidGMUZbby8lK2ZvcmVncm91bmRHUSpbMCwwLDI1NV1GJy8lKXJlYWRvbmx5R0ZOLyUwZm9udF9zdHlsZV9uYW1lR1EqMkR+T3V0cHV0RidGMUZRLUYjNilGSC1GLjYtUTEmSW52aXNpYmxlVGltZXM7RidGMUY0RjdGOUY7Rj1GP0ZBRkNGRi1GWDYlRlotRmhuNiRRIjJGJ0YxRltvRl5wRmFwRmNwRjFGXnBGYXBGY3BGMS1GSTYjUSFGJ0ZecEZhcEZjcEYx</Equation></Text-field></Title>
+<Group labelreference="L17" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">f3:=x-&gt;(x+(y)^(5)+1= y +(x)^(4)+x*y^2);</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUkjbWlHRiQ2JVEjZjNGJy8lJ2l0YWxpY0dRJXRydWVGJy8lLG1hdGh2YXJpYW50R1EnaXRhbGljRictSSNtb0dGJDYtUSM6PUYnL0YzUSdub3JtYWxGJy8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGPS8lKXN0cmV0Y2h5R0Y9LyUqc3ltbWV0cmljR0Y9LyUobGFyZ2VvcEdGPS8lLm1vdmFibGVsaW1pdHNHRj0vJSdhY2NlbnRHRj0vJSdsc3BhY2VHUSwwLjI3Nzc3NzhlbUYnLyUncnNwYWNlR0ZMLUYjNigtRiw2JVEieEYnRi9GMi1GNjYtUSgmIzg1OTQ7RidGOUY7Rj5GQEZCRkRGRkZIL0ZLUSYwLjBlbUYnL0ZORlgtRiM2KC1GIzYoRlEtRjY2LVEiK0YnRjlGO0Y+RkBGQkZERkZGSC9GS1EsMC4yMjIyMjIyZW1GJy9GTkZcby1GIzYkLUklbXN1cEdGJDYlLUYsNiVRInlGJ0YvRjItSSNtbkdGJDYkUSI1RidGOS8lMXN1cGVyc2NyaXB0c2hpZnRHUSIwRidGOUZobi1GZ282JFEiMUYnRjlGOS1GNjYtUSI9RidGOUY7Rj5GQEZCRkRGRkZIRkpGTS1GIzYoRmNvRmhuLUYjNiQtRmFvNiVGUS1GZ282JFEiNEYnRjlGam9GOUZobi1GIzYmRlEtRjY2LVExJkludmlzaWJsZVRpbWVzO0YnRjlGO0Y+RkBGQkZERkZGSEZXRlktRmFvNiVGY28tRmdvNiRRIjJGJ0Y5RmpvRjlGOS8lK2ZvcmVncm91bmRHUShbMCwwLDBdRicvJSlyZWFkb25seUdGPUY5RmZxRmlxRjlGZnFGaXFGOQ==">Zio2I0kieEc2IkYlNiRJKW9wZXJhdG9yR0YlSSZhcnJvd0dGJUYlLywoOSQiIiIqJEkieUdGJSIiJkYsRixGLCwoRi5GLCokRisiIiVGLComRitGLEYuIiIjRixGJUYlRiU=</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L36" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field style="Text" layout="Normal">1ra manera de obtener la derivada implicita de segundo orden:</Text-field>
+</Input>
+</Group>
+<Group labelreference="L18" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">der_imp_orden2_ej3=implicitdiff((x+(y)^(5)+1= y +(x)^(4)+x*y^2),y,x,x); #1ra Manera de obtener derivada implicita de segundo orden;</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUkjbWlHRiQ2JVEzZGVyX2ltcF9vcmRlbjJfZWozRicvJSdpdGFsaWNHUSV0cnVlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkjbW9HRiQ2LVEiPUYnL0YzUSdub3JtYWxGJy8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGPS8lKXN0cmV0Y2h5R0Y9LyUqc3ltbWV0cmljR0Y9LyUobGFyZ2VvcEdGPS8lLm1vdmFibGVsaW1pdHNHRj0vJSdhY2NlbnRHRj0vJSdsc3BhY2VHUSwwLjI3Nzc3NzhlbUYnLyUncnNwYWNlR0ZMLUkmbWZyYWNHRiQ2KC1GIzYoLUkjbW5HRiQ2JFEiMkYnRjktRjY2LVExJkludmlzaWJsZVRpbWVzO0YnRjlGO0Y+RkBGQkZERkZGSC9GS1EmMC4wZW1GJy9GTkZmbi1JKG1mZW5jZWRHRiQ2JC1GIzZCLUYjNigtRlU2JFEkMTUwRidGOUZYLUklbXN1cEdGJDYlLUYsNiVRInhGJ0YvRjJGVC8lMXN1cGVyc2NyaXB0c2hpZnRHUSIwRidGWC1GY282JS1GLDYlUSJ5RidGL0YyLUZVNiRRIjhGJ0Y5RmhvRjktRjY2LVEoJm1pbnVzO0YnRjlGO0Y+RkBGQkZERkZGSC9GS1EsMC4yMjIyMjIyZW1GJy9GTkZncC1GIzYoLUZVNiRRJDE2MEYnRjlGWC1GY282JUZlby1GVTYkUSI2RidGOUZob0ZYLUZjbzYlRl1wLUZVNiRRIjNGJ0Y5RmhvRjlGY3AtRiM2KEZbcUZYLUZjbzYlRmVvRmVxRmhvRlgtRmNvNiVGXXAtRlU2JFEiNUYnRjlGaG9GOS1GNjYtUSIrRidGOUY7Rj5GQEZCRkRGRkZIRmZwRmhwLUYjNiYtRlU2JFEjMTZGJ0Y5RlgtRmNvNiVGZW8tRlU2JFEiN0YnRjlGaG9GOUZhci1GIzYoRmZyRlgtRmNvNiVGZW8tRlU2JFEiNEYnRjlGaG9GWC1GY282JUZdcEZURmhvRjlGYXItRiM2KC1GVTYkUSM4MEYnRjlGWEZqcUZYRmNxRjlGY3AtRiM2KC1GVTYkUSM2MEYnRjlGWEZib0ZYLUZjbzYlRl1wRmJzRmhvRjlGY3AtRiM2KEZlcUZYRmVvRlhGYXRGOUZhci1GIzYmLUZVNiRRIzEwRidGOUZYRlxyRjlGY3AtRiM2JkZgcEZYRmBzRjlGYXItRiM2KEZmckZYRmpxRlhGXXBGOUZhci1GIzYoRlRGWEZlb0ZYRmVzRjlGY3AtRiM2Ji1GVTYkUSMxMkYnRjlGWEZjcUY5RmFyLUYjNiZGYHFGWEZib0Y5RmFyRmVvRmFyLUYjNiZGVEZYRl1wRjlGOUY5LyUrZm9yZWdyb3VuZEdRKFswLDAsMF1GJy8lKXJlYWRvbmx5R0Y9RjktRiM2Ji1GIzY2LUYjNiYtRlU2JFEkMTI1RidGOUZYLUZjbzYlRl1wRmJ1RmhvRjlGY3AtRiM2KEZfb0ZYRmVvRlgtRmNvNiVGXXAtRlU2JFEiOUYnRjlGaG9GOUZhci1GIzYoRl50RlhGYm9GWC1GY282JUZdcEZgcUZob0Y5RmNwLUYjNiYtRlU2JFEjNzVGJ0Y5RlhGW3BGOUZjcC1GIzYoRmBwRlhGanFGWEZjcUY5RmFyLUYjNihGXnRGWEZlb0ZYRlxyRjlGY3AtRiM2KEZidUZYRmJvRlhGZXNGOUZhci1GIzYmLUZVNiRRIzE1RidGOUZYRmF0RjlGY3AtRiM2KEZgcUZYRmVvRlhGXXBGOUZjcC1GVTYkUSIxRidGOUY5Rml1Rlx2RjkvJS5saW5ldGhpY2tuZXNzR0ZoeC8lK2Rlbm9tYWxpZ25HUSdjZW50ZXJGJy8lKW51bWFsaWduR0ZdeS8lKWJldmVsbGVkR0Y9Rml1Rlx2Rjk=">L0kzZGVyX2ltcF9vcmRlbjJfZWozRzYiLCQqJixCKiZJInhHRiQiIiNJInlHRiQiIikiJF0iKiZGKSIiJ0YrIiIkISRnIiomRilGMEYrIiImRjEqJEYpIiIoIiM7KiZGKSIiJUYrRipGNiomRilGMEYrRjAiIyEpKiZGKUYqRitGOCEjZyomRikiIiJGK0Y4ISIkKiRGK0YzIiM1KiRGKUY4ISIpKiZGKUYwRitGPkY2KiZGKUY+RitGKkYqKiRGK0YwISM3KiRGKUYqRi9GKUY+RitGKkY+LDYqJEYrIiM3IiREIiomRilGPkYrIiIqISRdIiomRilGKkYrRi8iI2cqJEYrRiwhI3ZGOUZDKiZGKUY+RitGM0ZRKiZGKUYqRitGKkZHKiRGK0Y4IiM6KiZGKUY+RitGPiEiJyEiIkY+RlpGKg==</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L37" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field style="Text" layout="Normal">2da manera de obtener la derivada implicita de segundo orden:</Text-field>
+</Input>
+</Group>
+<Group labelreference="L19" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">d2imp_ej3:=implicitdiff(f3(x),y,x,x);</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUkjbWlHRiQ2JVEqZDJpbXBfZWozRicvJSdpdGFsaWNHUSV0cnVlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkjbW9HRiQ2LVEjOj1GJy9GM1Enbm9ybWFsRicvJSZmZW5jZUdRJmZhbHNlRicvJSpzZXBhcmF0b3JHRj0vJSlzdHJldGNoeUdGPS8lKnN5bW1ldHJpY0dGPS8lKGxhcmdlb3BHRj0vJS5tb3ZhYmxlbGltaXRzR0Y9LyUnYWNjZW50R0Y9LyUnbHNwYWNlR1EsMC4yNzc3Nzc4ZW1GJy8lJ3JzcGFjZUdGTC1JJm1mcmFjR0YkNigtRiM2KC1JI21uR0YkNiRRIjJGJ0Y5LUY2Ni1RMSZJbnZpc2libGVUaW1lcztGJ0Y5RjtGPkZARkJGREZGRkgvRktRJjAuMGVtRicvRk5GZm4tSShtZmVuY2VkR0YkNiQtRiM2Qi1GIzYoLUZVNiRRJDE1MEYnRjlGWC1JJW1zdXBHRiQ2JS1GLDYlUSJ4RidGL0YyRlQvJTFzdXBlcnNjcmlwdHNoaWZ0R1EiMEYnRlgtRmNvNiUtRiw2JVEieUYnRi9GMi1GVTYkUSI4RidGOUZob0Y5LUY2Ni1RKCZtaW51cztGJ0Y5RjtGPkZARkJGREZGRkgvRktRLDAuMjIyMjIyMmVtRicvRk5GZ3AtRiM2KC1GVTYkUSQxNjBGJ0Y5RlgtRmNvNiVGZW8tRlU2JFEiNkYnRjlGaG9GWC1GY282JUZdcC1GVTYkUSIzRidGOUZob0Y5RmNwLUYjNihGW3FGWC1GY282JUZlb0ZlcUZob0ZYLUZjbzYlRl1wLUZVNiRRIjVGJ0Y5RmhvRjktRjY2LVEiK0YnRjlGO0Y+RkBGQkZERkZGSEZmcEZocC1GIzYmLUZVNiRRIzE2RidGOUZYLUZjbzYlRmVvLUZVNiRRIjdGJ0Y5RmhvRjlGYXItRiM2KEZmckZYLUZjbzYlRmVvLUZVNiRRIjRGJ0Y5RmhvRlgtRmNvNiVGXXBGVEZob0Y5RmFyLUYjNigtRlU2JFEjODBGJ0Y5RlhGanFGWEZjcUY5RmNwLUYjNigtRlU2JFEjNjBGJ0Y5RlhGYm9GWC1GY282JUZdcEZic0Zob0Y5RmNwLUYjNihGZXFGWEZlb0ZYRmF0RjlGYXItRiM2Ji1GVTYkUSMxMEYnRjlGWEZcckY5RmNwLUYjNiZGYHBGWEZgc0Y5RmFyLUYjNihGZnJGWEZqcUZYRl1wRjlGYXItRiM2KEZURlhGZW9GWEZlc0Y5RmNwLUYjNiYtRlU2JFEjMTJGJ0Y5RlhGY3FGOUZhci1GIzYmRmBxRlhGYm9GOUZhckZlb0Zhci1GIzYmRlRGWEZdcEY5RjlGOS8lK2ZvcmVncm91bmRHUShbMCwwLDBdRicvJSlyZWFkb25seUdGPUY5LUYjNiYtRiM2Ni1GIzYmLUZVNiRRJDEyNUYnRjlGWC1GY282JUZdcEZidUZob0Y5RmNwLUYjNihGX29GWEZlb0ZYLUZjbzYlRl1wLUZVNiRRIjlGJ0Y5RmhvRjlGYXItRiM2KEZedEZYRmJvRlgtRmNvNiVGXXBGYHFGaG9GOUZjcC1GIzYmLUZVNiRRIzc1RidGOUZYRltwRjlGY3AtRiM2KEZgcEZYRmpxRlhGY3FGOUZhci1GIzYoRl50RlhGZW9GWEZcckY5RmNwLUYjNihGYnVGWEZib0ZYRmVzRjlGYXItRiM2Ji1GVTYkUSMxNUYnRjlGWEZhdEY5RmNwLUYjNihGYHFGWEZlb0ZYRl1wRjlGY3AtRlU2JFEiMUYnRjlGOUZpdUZcdkY5LyUubGluZXRoaWNrbmVzc0dGaHgvJStkZW5vbWFsaWduR1EnY2VudGVyRicvJSludW1hbGlnbkdGXXkvJSliZXZlbGxlZEdGPUZpdUZcdkY5">LCQqJixCKiZJInhHNiIiIiNJInlHRiciIikiJF0iKiZGJiIiJ0YpIiIkISRnIiomRiZGLkYpIiImRi8qJEYmIiIoIiM7KiZGJiIiJUYpRihGNComRiZGLkYpRi4iIyEpKiZGJkYoRilGNiEjZyomRiYiIiJGKUY2ISIkKiRGKUYxIiM1KiRGJkY2ISIpKiZGJkYuRilGPEY0KiZGJkY8RilGKEYoKiRGKUYuISM3KiRGJkYoRi1GJkY8RilGKEY8LDYqJEYpIiM3IiREIiomRiZGPEYpIiIqISRdIiomRiZGKEYpRi0iI2cqJEYpRiohI3ZGN0ZBKiZGJkY8RilGMUZPKiZGJkYoRilGKEZFKiRGKUY2IiM6KiZGJkY8RilGPCEiJyEiIkY8RlhGKA==</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L38" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field style="Text" layout="Normal">Se simplifica (si es posible), la expresion resultante de la derivada implicita de segundo orden:</Text-field>
+</Input>
+</Group>
+<Group labelreference="L20" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">simplify(%);</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYnLUkjbW9HRiQ2LVEqJnVtaW51czA7RicvJSxtYXRodmFyaWFudEdRJ25vcm1hbEYnLyUmZmVuY2VHUSZmYWxzZUYnLyUqc2VwYXJhdG9yR0Y0LyUpc3RyZXRjaHlHRjQvJSpzeW1tZXRyaWNHRjQvJShsYXJnZW9wR0Y0LyUubW92YWJsZWxpbWl0c0dGNC8lJ2FjY2VudEdGNC8lJ2xzcGFjZUdRLDAuMjIyMjIyMmVtRicvJSdyc3BhY2VHRkMtSSZtZnJhY0dGJDYoLUYjNigtSSNtbkdGJDYkUSIyRidGLy1GLDYtUTEmSW52aXNpYmxlVGltZXM7RidGL0YyRjVGN0Y5RjtGPUY/L0ZCUSYwLjBlbUYnL0ZFRlMtSShtZmVuY2VkR0YkNiQtRiM2Qi1GIzYoLUZMNiRRJDE1MEYnRi9GTy1JJW1zdXBHRiQ2JS1JI21pR0YkNiVRInhGJy8lJ2l0YWxpY0dRJXRydWVGJy9GMFEnaXRhbGljRidGSy8lMXN1cGVyc2NyaXB0c2hpZnRHUSIwRidGTy1Gam42JS1GXW82JVEieUYnRmBvRmNvLUZMNiRRIjhGJ0YvRmVvRi8tRiw2LVEoJm1pbnVzO0YnRi9GMkY1RjdGOUY7Rj1GP0ZBRkQtRiM2KC1GTDYkUSQxNjBGJ0YvRk8tRmpuNiVGXG8tRkw2JFEiNkYnRi9GZW9GTy1Gam42JUZqby1GTDYkUSIzRidGL0Zlb0YvRmBwLUYjNihGZXBGTy1Gam42JUZcb0ZfcUZlb0ZPLUZqbjYlRmpvLUZMNiRRIjVGJ0YvRmVvRi8tRiw2LVEiK0YnRi9GMkY1RjdGOUY7Rj1GP0ZBRkQtRiM2Ji1GTDYkUSMxNkYnRi9GTy1Gam42JUZcby1GTDYkUSI3RidGL0Zlb0YvRltyLUYjNihGYHJGTy1Gam42JUZcby1GTDYkUSI0RidGL0Zlb0ZPLUZqbjYlRmpvRktGZW9GL0Zbci1GIzYoLUZMNiRRIzgwRidGL0ZPRmRxRk9GXXFGL0ZgcC1GIzYoLUZMNiRRIzYwRidGL0ZPRmluRk8tRmpuNiVGam9GXHNGZW9GL0ZgcC1GIzYoRl9xRk9GXG9GT0ZbdEYvRltyLUYjNiYtRkw2JFEjMTBGJ0YvRk9GZnFGL0ZgcC1GIzYmRl1wRk9GanJGL0Zbci1GIzYoRmByRk9GZHFGT0Zqb0YvRltyLUYjNihGS0ZPRlxvRk9GX3NGL0ZgcC1GIzYmLUZMNiRRIzEyRidGL0ZPRl1xRi9GW3ItRiM2JkZqcEZPRmluRi9GW3JGXG9GW3ItRiM2JkZLRk9Gam9GL0YvRi8vJStmb3JlZ3JvdW5kR1EoWzAsMCwwXUYnLyUpcmVhZG9ubHlHRjRGLy1GIzYmLUYjNjdGKy1GIzYmLUZMNiRRJDEyNUYnRi9GTy1Gam42JUZqb0ZcdUZlb0YvRltyLUYjNihGZm5GT0Zcb0ZPLUZqbjYlRmpvLUZMNiRRIjlGJ0YvRmVvRi9GYHAtRiM2KEZoc0ZPRmluRk8tRmpuNiVGam9GanBGZW9GL0Zbci1GIzYmLUZMNiRRIzc1RidGL0ZPRmhvRi9GW3ItRiM2KEZdcEZPRmRxRk9GXXFGL0ZgcC1GIzYoRmhzRk9GXG9GT0ZmcUYvRltyLUYjNihGXHVGT0ZpbkZPRl9zRi9GYHAtRiM2Ji1GTDYkUSMxNUYnRi9GT0ZbdEYvRltyLUYjNihGanBGT0Zcb0ZPRmpvRi9GW3ItRkw2JFEiMUYnRi9GL0ZjdUZmdUYvLyUubGluZXRoaWNrbmVzc0dGYngvJStkZW5vbWFsaWduR1EnY2VudGVyRicvJSludW1hbGlnbkdGZ3gvJSliZXZlbGxlZEdGNEZjdUZmdUYv">LCQqJixCKiZJInhHNiIiIiNJInlHRiciIikiJF0iKiZGJiIiJ0YpIiIkISRnIiomRiZGLkYpIiImRi8qJEYmIiIoIiM7KiZGJiIiJUYpRihGNComRiZGLkYpRi4iIyEpKiZGJkYoRilGNiEjZyomRiYiIiJGKUY2ISIkKiRGKUYxIiM1KiRGJkY2ISIpKiZGJkYuRilGPEY0KiZGJkY8RilGKEYoKiRGKUYuISM3KiRGJkYoRi1GJkY8RilGKEY8LDYqJEYpIiM3ISREIiomRiZGPEYpIiIqRisqJkYmRihGKUYtRjoqJEYpRioiI3ZGN0YqKiZGJkY8RilGMUY6KiZGJkYoRilGKEZJKiRGKUY2ISM6KiZGJkY8RilGPEYtRjxGPCEiIiEiIw==</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L21" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field style="Text" layout="Normal">Se evalua el punto (1,1), en la ecuacion resultante de la derivada implicita de segundo orden</Text-field>
+</Input>
+</Group>
+<Group labelreference="L22" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">eval(d2imp_ej3,[x=1,y=1]);</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">ISNF</Equation></Text-field>
+</Output>
+</Group>
+</Section>
+<Section collapsed="true" MultipleChoiceAnswerIndex="-1" MultipleChoiceRandomizeChoices="false" TrueFalseAnswerIndex="-1" EssayAnswerRows="5" EssayAnswerColumns="60"><Title>
+<Text-field style="Heading 1" layout="Heading 1"><Font size="12">Ejercicio 2.4 </Font><Equation executable="false" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUkjbWlHRiQ2I1EhRictRiM2KS1GIzYuLUkjbW9HRiQ2LVEifkYnLyUsbWF0aHZhcmlhbnRHUSdub3JtYWxGJy8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGPC8lKXN0cmV0Y2h5R0Y8LyUqc3ltbWV0cmljR0Y8LyUobGFyZ2VvcEdGPC8lLm1vdmFibGVsaW1pdHNHRjwvJSdhY2NlbnRHRjwvJSdsc3BhY2VHUSYwLjBlbUYnLyUncnNwYWNlR0ZLLUklbXN1cEdGJDYlLUYsNiVRInhGJy8lJ2l0YWxpY0dRJXRydWVGJy9GOFEnaXRhbGljRictSSNtbkdGJDYkUSIzRidGNy8lMXN1cGVyc2NyaXB0c2hpZnRHUSIwRictRjQ2LVExJkludmlzaWJsZVRpbWVzO0YnRjdGOkY9Rj9GQUZDRkVGR0ZJRkwtRiw2JVEieUYnRlRGVy1GNDYtUSIrRidGN0Y6Rj1GP0ZBRkNGRUZHL0ZKUSwwLjIyMjIyMjJlbUYnL0ZNRmRvRlFGam4tRk82JUZdb0ZZRmduLyUrZm9yZWdyb3VuZEdRKlswLDAsMjU1XUYnLyUpcmVhZG9ubHlHRlYvJTBmb250X3N0eWxlX25hbWVHUSoyRH5PdXRwdXRGJ0Y3LUY0Ni1RIj1GJ0Y3RjpGPUY/RkFGQ0ZFRkcvRkpRLDAuMjc3Nzc3OGVtRicvRk1GZHAtRlo2JFEjMTFGJ0Y3RmhvRltwRl1wRjdGaG9GW3BGXXBGNw==">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUkjbWlHRiQ2I1EhRictRiM2KS1GIzYuLUkjbW9HRiQ2LVEifkYnLyUsbWF0aHZhcmlhbnRHUSdub3JtYWxGJy8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGPC8lKXN0cmV0Y2h5R0Y8LyUqc3ltbWV0cmljR0Y8LyUobGFyZ2VvcEdGPC8lLm1vdmFibGVsaW1pdHNHRjwvJSdhY2NlbnRHRjwvJSdsc3BhY2VHUSYwLjBlbUYnLyUncnNwYWNlR0ZLLUklbXN1cEdGJDYlLUYsNiVRInhGJy8lJ2l0YWxpY0dRJXRydWVGJy9GOFEnaXRhbGljRictSSNtbkdGJDYkUSIzRidGNy8lMXN1cGVyc2NyaXB0c2hpZnRHUSIwRictRjQ2LVExJkludmlzaWJsZVRpbWVzO0YnRjdGOkY9Rj9GQUZDRkVGR0ZJRkwtRiw2JVEieUYnRlRGVy1GNDYtUSIrRidGN0Y6Rj1GP0ZBRkNGRUZHL0ZKUSwwLjIyMjIyMjJlbUYnL0ZNRmRvRlFGam4tRk82JUZdb0ZZRmduLyUrZm9yZWdyb3VuZEdRKlswLDAsMjU1XUYnLyUpcmVhZG9ubHlHRlYvJTBmb250X3N0eWxlX25hbWVHUSoyRH5PdXRwdXRGJ0Y3LUY0Ni1RIj1GJ0Y3RjpGPUY/RkFGQ0ZFRkcvRkpRLDAuMjc3Nzc3OGVtRicvRk1GZHAtRlo2JFEjMTFGJ0Y3RmhvRltwRl1wRjdGaG9GW3BGXXBGNw==</Equation></Text-field></Title>
+<Group labelreference="L23" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">f4:=x-&gt;((x)^(3)*(y)+ x*y^3 = 11);</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUkjbWlHRiQ2JVEjZjRGJy8lJ2l0YWxpY0dRJXRydWVGJy8lLG1hdGh2YXJpYW50R1EnaXRhbGljRictSSNtb0dGJDYtUSM6PUYnL0YzUSdub3JtYWxGJy8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGPS8lKXN0cmV0Y2h5R0Y9LyUqc3ltbWV0cmljR0Y9LyUobGFyZ2VvcEdGPS8lLm1vdmFibGVsaW1pdHNHRj0vJSdhY2NlbnRHRj0vJSdsc3BhY2VHUSwwLjI3Nzc3NzhlbUYnLyUncnNwYWNlR0ZMLUYjNigtRiw2JVEieEYnRi9GMi1GNjYtUSgmIzg1OTQ7RidGOUY7Rj5GQEZCRkRGRkZIL0ZLUSYwLjBlbUYnL0ZORlgtRiM2KC1GIzYmLUYjNiYtSSVtc3VwR0YkNiVGUS1JI21uR0YkNiRRIjNGJ0Y5LyUxc3VwZXJzY3JpcHRzaGlmdEdRIjBGJy1GNjYtUTEmSW52aXNpYmxlVGltZXM7RidGOUY7Rj5GQEZCRkRGRkZIRldGWS1GLDYlUSJ5RidGL0YyRjktRjY2LVEiK0YnRjlGO0Y+RkBGQkZERkZGSC9GS1EsMC4yMjIyMjIyZW1GJy9GTkZecC1GIzYmRlFGZG8tRltvNiVGZ29GXW9GYW9GOUY5LUY2Ni1RIj1GJ0Y5RjtGPkZARkJGREZGRkhGSkZNLUZebzYkUSMxMUYnRjkvJStmb3JlZ3JvdW5kR1EoWzAsMCwwXUYnLyUpcmVhZG9ubHlHRj1GOUZqcEZdcUY5RmpwRl1xRjk=">Zio2I0kieEc2IkYlNiRJKW9wZXJhdG9yR0YlSSZhcnJvd0dGJUYlLywmKiY5JCIiJEkieUdGJSIiIkYvKiZGLEYvRi5GLUYvIiM2RiVGJUYl</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L39" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field style="Text" layout="Normal">1ra manera de obtener la derivada implicita de tercer orden:</Text-field>
+</Input>
+</Group>
+<Group labelreference="L24" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">der_imp_orden3_ej4=implicitdiff(x^(3)*y+ x*y^3= 11,y,x,x,x); #1ra Manera de obtener derivada implicita de tercer orden;</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUkjbWlHRiQ2JVEzZGVyX2ltcF9vcmRlbjNfZWo0RicvJSdpdGFsaWNHUSV0cnVlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkjbW9HRiQ2LVEiPUYnL0YzUSdub3JtYWxGJy8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGPS8lKXN0cmV0Y2h5R0Y9LyUqc3ltbWV0cmljR0Y9LyUobGFyZ2VvcEdGPS8lLm1vdmFibGVsaW1pdHNHRj0vJSdhY2NlbnRHRj0vJSdsc3BhY2VHUSwwLjI3Nzc3NzhlbUYnLyUncnNwYWNlR0ZMLUYjNictRjY2LVEqJnVtaW51czA7RidGOUY7Rj5GQEZCRkRGRkZIL0ZLUSwwLjIyMjIyMjJlbUYnL0ZORlUtSSZtZnJhY0dGJDYoLUYjNiotSSNtbkdGJDYkUSMxMkYnRjktRjY2LVExJkludmlzaWJsZVRpbWVzO0YnRjlGO0Y+RkBGQkZERkZGSC9GS1EmMC4wZW1GJy9GTkZeby1JKG1mZW5jZWRHRiQ2JC1GIzYuLUYjNiYtRmduNiRRIjVGJ0Y5RmpuLUklbXN1cEdGJDYlLUYsNiVRInhGJ0YvRjItRmduNiRRIzEwRidGOS8lMXN1cGVyc2NyaXB0c2hpZnRHUSIwRidGOS1GNjYtUSgmbWludXM7RidGOUY7Rj5GQEZCRkRGRkZIRlRGVi1GIzYoLUZnbjYkUSM2M0YnRjlGam4tRltwNiVGXXAtRmduNiRRIjhGJ0Y5RmNwRmpuLUZbcDYlLUYsNiVRInlGJ0YvRjItRmduNiRRIjJGJ0Y5RmNwRjlGZnAtRiM2KC1GZ242JFEjNTRGJ0Y5RmpuLUZbcDYlRl1wLUZnbjYkUSI2RidGOUZjcEZqbi1GW3A2JUZlcS1GZ242JFEiNEYnRjlGY3BGOS1GNjYtUSIrRidGOUY7Rj5GQEZCRkRGRkZIRlRGVi1GIzYoLUZnbjYkUSM0MkYnRjlGam4tRltwNiVGXXBGZ3JGY3BGam4tRltwNiVGZXFGYnJGY3BGOUZqci1GIzYoLUZnbjYkUSM0OUYnRjlGam4tRltwNiVGXXBGaHFGY3BGam4tRltwNiVGZXFGYHFGY3BGOUZqci1GIzYmLUZnbjYkUSMyMUYnRjlGam4tRltwNiVGZXFGYHBGY3BGOUY5RjlGam5GZXEvJStmb3JlZ3JvdW5kR1EoWzAsMCwwXUYnLyUpcmVhZG9ubHlHRj1GOS1GIzYoLUZhbzYkLUYjNi4tRiM2JEZqb0Y5RmpyLUYjNigtRmduNiRRIzE1RidGOUZqbkZecUZqbkZjcUY5RmpyLUYjNigtRmduNiRRIzkwRidGOUZqbkZgckZqbkZlckY5RmpyLUYjNigtRmduNiRRJDI3MEYnRjlGam5GYnNGam5GZHNGOUZqci1GIzYoLUZnbjYkUSQ0MDVGJ0Y5RmpuRlt0RmpuRl10RjlGanItRiM2Ji1GZ242JFEkMjQzRidGOUZqbkZkdEY5RjlGOUZqbi1GW3A2JUZdcC1GZ242JFEiM0YnRjlGY3BGZnRGaXRGOS8lLmxpbmV0aGlja25lc3NHUSIxRicvJStkZW5vbWFsaWduR1EnY2VudGVyRicvJSludW1hbGlnbkdGZncvJSliZXZlbGxlZEdGPUZmdEZpdEY5RmZ0Rml0Rjk=">L0kzZGVyX2ltcF9vcmRlbjNfZWo0RzYiLCQqKiwuKiRJInhHRiQiIzUiIiYqJkYpIiIpSSJ5R0YkIiIjISNqKiZGKSIiJ0YuIiIlISNhKiZGKUYzRi5GMiIjVSomRilGL0YuRi0iI1wqJEYuRioiI0AiIiJGLkY7LC5GKEY7RiwiIzpGMSIjISpGNSIkcSNGNyIkMCVGOSIkViMhIiJGKSEiJCEjNw==</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L40" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field style="Text" layout="Normal">2da manera de obtener la derivada implicita de tercer orden:</Text-field>
+</Input>
+</Group>
+<Group labelreference="L25" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">d3imp_ej4:=implicitdiff(f4(x),y,x,x,x);</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUkjbWlHRiQ2JVEqZDNpbXBfZWo0RicvJSdpdGFsaWNHUSV0cnVlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkjbW9HRiQ2LVEjOj1GJy9GM1Enbm9ybWFsRicvJSZmZW5jZUdRJmZhbHNlRicvJSpzZXBhcmF0b3JHRj0vJSlzdHJldGNoeUdGPS8lKnN5bW1ldHJpY0dGPS8lKGxhcmdlb3BHRj0vJS5tb3ZhYmxlbGltaXRzR0Y9LyUnYWNjZW50R0Y9LyUnbHNwYWNlR1EsMC4yNzc3Nzc4ZW1GJy8lJ3JzcGFjZUdGTC1GIzYnLUY2Ni1RKiZ1bWludXMwO0YnRjlGO0Y+RkBGQkZERkZGSC9GS1EsMC4yMjIyMjIyZW1GJy9GTkZVLUkmbWZyYWNHRiQ2KC1GIzYqLUkjbW5HRiQ2JFEjMTJGJ0Y5LUY2Ni1RMSZJbnZpc2libGVUaW1lcztGJ0Y5RjtGPkZARkJGREZGRkgvRktRJjAuMGVtRicvRk5GXm8tSShtZmVuY2VkR0YkNiQtRiM2Li1GIzYmLUZnbjYkUSI1RidGOUZqbi1JJW1zdXBHRiQ2JS1GLDYlUSJ4RidGL0YyLUZnbjYkUSMxMEYnRjkvJTFzdXBlcnNjcmlwdHNoaWZ0R1EiMEYnRjktRjY2LVEoJm1pbnVzO0YnRjlGO0Y+RkBGQkZERkZGSEZURlYtRiM2KC1GZ242JFEjNjNGJ0Y5RmpuLUZbcDYlRl1wLUZnbjYkUSI4RidGOUZjcEZqbi1GW3A2JS1GLDYlUSJ5RidGL0YyLUZnbjYkUSIyRidGOUZjcEY5RmZwLUYjNigtRmduNiRRIzU0RidGOUZqbi1GW3A2JUZdcC1GZ242JFEiNkYnRjlGY3BGam4tRltwNiVGZXEtRmduNiRRIjRGJ0Y5RmNwRjktRjY2LVEiK0YnRjlGO0Y+RkBGQkZERkZGSEZURlYtRiM2KC1GZ242JFEjNDJGJ0Y5RmpuLUZbcDYlRl1wRmdyRmNwRmpuLUZbcDYlRmVxRmJyRmNwRjlGanItRiM2KC1GZ242JFEjNDlGJ0Y5RmpuLUZbcDYlRl1wRmhxRmNwRmpuLUZbcDYlRmVxRmBxRmNwRjlGanItRiM2Ji1GZ242JFEjMjFGJ0Y5RmpuLUZbcDYlRmVxRmBwRmNwRjlGOUY5RmpuRmVxLyUrZm9yZWdyb3VuZEdRKFswLDAsMF1GJy8lKXJlYWRvbmx5R0Y9RjktRiM2KC1GYW82JC1GIzYuLUYjNiRGam9GOUZqci1GIzYoLUZnbjYkUSMxNUYnRjlGam5GXnFGam5GY3FGOUZqci1GIzYoLUZnbjYkUSM5MEYnRjlGam5GYHJGam5GZXJGOUZqci1GIzYoLUZnbjYkUSQyNzBGJ0Y5RmpuRmJzRmpuRmRzRjlGanItRiM2KC1GZ242JFEkNDA1RidGOUZqbkZbdEZqbkZddEY5RmpyLUYjNiYtRmduNiRRJDI0M0YnRjlGam5GZHRGOUY5RjlGam4tRltwNiVGXXAtRmduNiRRIjNGJ0Y5RmNwRmZ0Rml0RjkvJS5saW5ldGhpY2tuZXNzR1EiMUYnLyUrZGVub21hbGlnbkdRJ2NlbnRlckYnLyUpbnVtYWxpZ25HRmZ3LyUpYmV2ZWxsZWRHRj1GZnRGaXRGOUZmdEZpdEY5">LCQqKiwuKiRJInhHNiIiIzUiIiYqJkYmIiIpSSJ5R0YnIiIjISNqKiZGJiIiJ0YsIiIlISNhKiZGJkYxRixGMCIjVSomRiZGLUYsRisiI1wqJEYsRigiI0AiIiJGLEY5LC5GJUY5RioiIzpGLyIjISpGMyIkcSNGNSIkMCVGNyIkViMhIiJGJiEiJCEjNw==</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L41" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field style="Text" layout="Normal">Se simplifica (si es posible), la expresion resultante de la derivada implicita de segundo orden:</Text-field>
+</Input>
+</Group>
+<Group labelreference="L26" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">simplify(%);</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYnLUkjbW9HRiQ2LVEqJnVtaW51czA7RicvJSxtYXRodmFyaWFudEdRJ25vcm1hbEYnLyUmZmVuY2VHUSZmYWxzZUYnLyUqc2VwYXJhdG9yR0Y0LyUpc3RyZXRjaHlHRjQvJSpzeW1tZXRyaWNHRjQvJShsYXJnZW9wR0Y0LyUubW92YWJsZWxpbWl0c0dGNC8lJ2FjY2VudEdGNC8lJ2xzcGFjZUdRLDAuMjIyMjIyMmVtRicvJSdyc3BhY2VHRkMtSSZtZnJhY0dGJDYoLUYjNiotSSNtbkdGJDYkUSMxMkYnRi8tRiw2LVExJkludmlzaWJsZVRpbWVzO0YnRi9GMkY1RjdGOUY7Rj1GPy9GQlEmMC4wZW1GJy9GRUZTLUkobWZlbmNlZEdGJDYkLUYjNi4tRiM2Ji1GTDYkUSI1RidGL0ZPLUklbXN1cEdGJDYlLUkjbWlHRiQ2JVEieEYnLyUnaXRhbGljR1EldHJ1ZUYnL0YwUSdpdGFsaWNGJy1GTDYkUSMxMEYnRi8vJTFzdXBlcnNjcmlwdHNoaWZ0R1EiMEYnRi8tRiw2LVEoJm1pbnVzO0YnRi9GMkY1RjdGOUY7Rj1GP0ZBRkQtRiM2KC1GTDYkUSM2M0YnRi9GTy1Gam42JUZcby1GTDYkUSI4RidGL0Zob0ZPLUZqbjYlLUZdbzYlUSJ5RidGYG9GY28tRkw2JFEiMkYnRi9GaG9GL0ZbcC1GIzYoLUZMNiRRIzU0RidGL0ZPLUZqbjYlRlxvLUZMNiRRIjZGJ0YvRmhvRk8tRmpuNiVGanAtRkw2JFEiNEYnRi9GaG9GLy1GLDYtUSIrRidGL0YyRjVGN0Y5RjtGPUY/RkFGRC1GIzYoLUZMNiRRIzQyRidGL0ZPLUZqbjYlRlxvRlxyRmhvRk8tRmpuNiVGanBGZ3FGaG9GL0Zfci1GIzYoLUZMNiRRIzQ5RidGL0ZPLUZqbjYlRlxvRl1xRmhvRk8tRmpuNiVGanBGZXBGaG9GL0Zfci1GIzYmLUZMNiRRIzIxRidGL0ZPLUZqbjYlRmpwRmVvRmhvRi9GL0YvRk9GanAvJStmb3JlZ3JvdW5kR1EoWzAsMCwwXUYnLyUpcmVhZG9ubHlHRjRGLy1GIzYoLUZWNiQtRiM2Li1GIzYkRmluRi9GX3ItRiM2KC1GTDYkUSMxNUYnRi9GT0ZjcEZPRmhwRi9GX3ItRiM2KC1GTDYkUSM5MEYnRi9GT0ZlcUZPRmpxRi9GX3ItRiM2KC1GTDYkUSQyNzBGJ0YvRk9GZ3JGT0ZpckYvRl9yLUYjNigtRkw2JFEkNDA1RidGL0ZPRmBzRk9GYnNGL0Zfci1GIzYmLUZMNiRRJDI0M0YnRi9GT0Zpc0YvRi9GL0ZPLUZqbjYlRlxvLUZMNiRRIjNGJ0YvRmhvRlt0Rl50Ri8vJS5saW5ldGhpY2tuZXNzR1EiMUYnLyUrZGVub21hbGlnbkdRJ2NlbnRlckYnLyUpbnVtYWxpZ25HRlt3LyUpYmV2ZWxsZWRHRjRGW3RGXnRGLw==">LCQqKiwuKiRJInhHNiIiIzUiIiYqJkYmIiIpSSJ5R0YnIiIjISNqKiZGJiIiJ0YsIiIlISNhKiZGJkYxRixGMCIjVSomRiZGLUYsRisiI1wqJEYsRigiI0AiIiJGLEY5LC5GJUY5RioiIzpGLyIjISpGMyIkcSNGNSIkMCVGNyIkViMhIiJGJiEiJCEjNw==</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L27" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field style="Text" layout="Normal">Se evalua el punto (1,2), en la ecuacion resultante de la derivada implicita de tercer orden</Text-field>
+</Input>
+</Group>
+<Group labelreference="L28" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">eval(d3imp_ej4,[x=1,y=2]);</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IyEnK10mKSInJEhyJA==</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L29" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">evalf(%,4); # Valor numerico del punto (1,2) en la derivada implicita de tercer orden</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">JCElLkIhIiQ=</Equation></Text-field>
+</Output>
+</Group>
+</Section>
+</Worksheet>
